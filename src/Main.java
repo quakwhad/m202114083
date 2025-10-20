@@ -3,5 +3,6 @@ public class Main {
         System.out.println("박종범");
         World.run();
         Hello.run();
+        System.out.println("안녕하세요");
     }
 }
