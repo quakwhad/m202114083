@@ -2,5 +2,6 @@ public class Main {
     public static void main(String[] args) {
         System.out.println("박종범");
         World.run();
+        System.out.println("안녕하세요");
     }
 }
